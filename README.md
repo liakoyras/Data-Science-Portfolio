@@ -10,6 +10,7 @@ Below it is a summary of them.
 ### :ship: [Titanic: Machine Learning from Disaster](Competitions/Titanic.ipynb)
 ### :skull: [Microsoft Malware Prediction](Competitions/Malware%20Prediction.ipynb)
 
+---------------
 
 ## :green_book: [Tutorials](Tutorials)
 
