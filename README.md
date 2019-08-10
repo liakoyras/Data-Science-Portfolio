@@ -5,8 +5,13 @@ More notebooks are coming, stay tuned.
 
 Below it is a summary of them.
 
-## :checkered_flag: Competitions
-### :skull: [Microsoft Malware Prediction](Competitions/Malware Prediction.ipynb)
+## :checkered_flag: [Competitions](Competitions)
 
-## :green_book: Tutorials
-### :chart_with_upwards_trend: [Time Series and Feature Engineering](Tutorials/Time Series Tutorial.ipynb)
+### :ship: [Titanic: Machine Learning from Disaster](Competitions/Titanic.ipynb)
+### :skull: [Microsoft Malware Prediction](Competitions/Malware%20Prediction.ipynb)
+
+
+## :green_book: [Tutorials](Tutorials)
+
+### :chart_with_upwards_trend: [Time Series and Feature Engineering](Tutorials/Time%20Series%20Tutorial.ipynb)
+This tutorial explains the basics of time series analysis using `pandas` and emphasizes on Feature Engineering (in order to tackle a time series problem like any other supervised learning problem).
