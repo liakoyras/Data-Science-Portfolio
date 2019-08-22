@@ -8,7 +8,7 @@ Below it is a summary of them.
 ## :checkered_flag: [Competitions](Competitions)
 
 ### :ship: [Titanic: Machine Learning from Disaster](Competitions/Titanic.ipynb)
-### :microsoft: [Microsoft Malware Prediction](Competitions/Malware%20Prediction.ipynb)
+### :computer: [Microsoft Malware Prediction](Competitions/Malware%20Prediction.ipynb)
 
 ---------------
 
