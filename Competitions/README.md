@@ -14,6 +14,6 @@ This is a classic [competition](https://www.kaggle.com/c/titanic), ideal for beg
 The code is from back when I first got involved with Data Science and I wrote it in order to follow a tutorial, so it is very unsofisticated but I could not resist the nostalgia to upload it.<br>
 I might come back to better my score.
 
-## :skull: Microsoft Malware Prediction
+## :computer: Microsoft Malware Prediction
 This was a very popular [competition](https://www.kaggle.com/c/microsoft-malware-prediction) with a huge dataset, proving itself challenging even for simple things like loading all of the data or encoding the categorical variables.<br>
 The lessons and techniques learned from this regarding memory management and careful resource allocation will prove themselves invaluable.
